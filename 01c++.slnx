@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../0301cucles/0301cucles.vcxproj" Id="3651214f-bf9d-47c2-afa7-c9d856020ff4" />
   <Project Path="../03_Cucylecplusplus/03_Cucylecplusplus.vcxproj" Id="8a5edd16-fa98-4b1d-bdf4-ce71bd3cfd46" />
   <Project Path="../LogicOperatorcplusplus/LogicOperatorcplusplus.vcxproj" Id="7e6b67de-adb5-4e8f-be64-bdd1b3d76a50" />
   <Project Path="01c++.vcxproj" Id="e3875a0d-f3c1-42d3-80a3-2a91a9f9a4d8" />
